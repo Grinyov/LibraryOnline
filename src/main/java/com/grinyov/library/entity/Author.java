@@ -1,5 +1,5 @@
 package com.grinyov.library.entity;
-// Generated Jul 5, 2013 2:59:07 PM by Hibernate Tools 3.2.1.GA
+
 
 import java.util.Date;
 import java.util.HashSet;
